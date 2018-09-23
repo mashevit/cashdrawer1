@@ -127,7 +127,7 @@ public class CashDrawerJApplet extends JApplet {
 					"			processed. Please reenter the cash drawer input file name.");
 			handleException(e);
 			
-		}catch(Exception exc) {//
+		}catch(Exception exc) {////
 			handleException(exc);
 		}
 		
